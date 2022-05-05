@@ -1,0 +1,13 @@
+   23  git config --global user.name "Jaina Dady"
+   24  git config --global user.email "jainadadycardoso@gmail.com"
+   25  ssh-key
+   26  ssh-keygen
+   27  cat ~/.ssh/id_rsa.pub
+   28  mkdir projetos
+   29  cd projetos
+   30  git clone git@github.com:jaina-egler/oficina-git.git
+   31  cd oficina-git/
+   32  ls
+   33  code .
+   34  history
+Editando para testes
